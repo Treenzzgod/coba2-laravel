@@ -41,7 +41,7 @@
         <a href="#2" class="button">Pendidikan</a>
         <a href="#3" class="button">Keahlian</a>
         <a href="#4" class="button">Pengalaman</a>
-        <a href="#5" class="button">Kontak</a>
+        <a href="/biodata" class="button">Kontak</a>
         <br><br>
     </div>
     <h1 align="center">DAFTAR RIWAYAT HIDUP</h1>

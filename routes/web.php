@@ -31,3 +31,6 @@ Route::get('/contact', function () {
 Route :: get ( '/contact' ,  function  () {
      return   view ( 'contact' );
 });
+Route :: get ( '/biodata' ,  function  () {
+     return   view ( 'biodata' );
+});
