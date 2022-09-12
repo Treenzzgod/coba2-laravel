@@ -1,6 +1,7 @@
+
 .menu {
     text-align: right;
-    
+    color: black;
     font-size: 18px;
     padding-top: 16pt;
 }
@@ -13,4 +14,13 @@
 icon{
     padding: 10px,10px,10px,10px;
     
+}
+.profile{
+    background-color: grey;
+}
+#forth{
+    color: red;
+}
+#first{
+    color: green;
 }
